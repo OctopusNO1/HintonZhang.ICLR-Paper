@@ -1,2 +1,6 @@
-# HintonZhang.ICLR-Paper
-1D1ICLR DLASciProR46
+
+# HintonZhang.ICLR-Paper           
+每天一ICLR论文，成为DL算法科学家ProR46         
+
+
+
