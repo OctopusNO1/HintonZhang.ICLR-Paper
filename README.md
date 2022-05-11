@@ -7,7 +7,7 @@
 
 
 
-## ICLR 2022. arxiv？知网RSS源？推送？？可以起到一个提醒作用，还是要推送一些好论文！       
+## ICLR 2022. arxiv除此之外？推送？？可以起到一个提醒作用，还是要推送一些好论文！       
 https://openreview.net/group?id=ICLR.cc/2022/Conference              
 
 
