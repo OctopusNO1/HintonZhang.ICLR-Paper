@@ -13,6 +13,8 @@ https://openreview.net/group?id=ICLR.cc/2022/Conference
 
 
 ## 深度学习算法领域的重要问题列表：           
-               
+时空预测问题：          
+微软亚洲研究院推出时空预测开源工具FOST，应对各行业共性预测需求              
+https://www.msra.cn/zh-cn/news/features/fost               
               
 
