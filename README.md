@@ -28,6 +28,9 @@ https://www.msra.cn/zh-cn/news/features/fost
 
 
 
+https://amturing.acm.org/call_for_nominations.cfm           
+
+
 
 清华，华罗庚          
 华为，林田        
