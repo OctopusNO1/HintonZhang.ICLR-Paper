@@ -39,8 +39,8 @@ https://amturing.acm.org/call_for_nominations.cfm
 
 
 
-清华，华罗庚          
-华为，林田        
+清华，张钹、华罗庚          
+华为，钟钊、林田        
 TangPP       
 
 
