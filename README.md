@@ -8,9 +8,13 @@
                
 
 
-## ICLR 2022. arxiv除此之外？推送？？可以起到一个提醒作用，还是要推送一些好论文！       
+## ICLR 2022 学习笔记. arxiv除此之外？推送？？可以起到一个提醒作用，还是要推送一些好论文！       
+The Tenth International Conference on Learning Representations          
 https://openreview.net/group?id=ICLR.cc/2022/Conference              
 
+### Domino: Discovering Systematic Errors with Cross-Modal Embeddings          
+https://openreview.net/pdf?id=FPCMqjI0jXN            
+XXX笔记XXX              
 
 
 
