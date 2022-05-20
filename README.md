@@ -34,7 +34,7 @@ https://www.msra.cn/zh-cn/news/features/fost
 
 
 
-
+https://www.aminer.cn/                       
 https://amturing.acm.org/call_for_nominations.cfm           
 
 
