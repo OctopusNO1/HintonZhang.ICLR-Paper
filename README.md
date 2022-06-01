@@ -60,6 +60,7 @@ https://www.cs.toronto.edu/~hinton/papers.html
 
 
 ICLR！！！        
+拥有顶尖科技AIDL算法的科学家，非常有钱！如Hinton1200万年薪，钟钊201万年薪等。
 谷歌百度，Hinton        
 清华，张钹、华罗庚          
 华为，钟钊、林田        
