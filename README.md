@@ -65,7 +65,7 @@ ICLR！！！
 谷歌百度，Hinton        
 清华，张钹、华罗庚          
 华为，钟钊、林田        
-TangPeiPei、TuWei        
+TangPeiPei优秀的学长？！、TuWei        
 
 
 
