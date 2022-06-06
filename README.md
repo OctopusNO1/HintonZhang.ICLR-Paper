@@ -1,5 +1,7 @@
 
 # HintonZhang.ICLR-Paper           
+尝试发明核心理念！！！         
+
 ## ICLR 2022 学习笔记. arxiv除此之外？推送？？可以起到一个提醒作用，还是要推送一些好论文！       
 The Tenth International Conference on Learning Representations          
 https://openreview.net/group?id=ICLR.cc/2022/Conference              
@@ -77,6 +79,10 @@ TangPeiPei优秀的学长？！、TuWei
 正路（数学-计算机——算法研究AIMLDL！！！）             
  >           
 达芬奇、托马斯杨、司马贺、居里夫人等是百年难得一遇的天才！不是一般人能够模仿的！         
+
+
+
+
 
 
 
