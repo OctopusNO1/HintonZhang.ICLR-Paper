@@ -58,6 +58,9 @@ https://www.pingwest.com/a/234018
 https://www.aminer.cn/                       
 https://amturing.acm.org/call_for_nominations.cfm           
 https://www.cs.toronto.edu/~hinton/papers.html              
+伪代码：            
+https://www.latex-project.org/             
+
 
 
 
