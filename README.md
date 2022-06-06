@@ -43,6 +43,7 @@ https://www.msra.cn/zh-cn/news/features/fost
 图灵奖难度极大！一天一刻一分一秒都不能松懈！                            
 持续积累DL算法研究经验！           
 日积月累——300！     
+Hinton非常坚定从未动摇！理想不变！             
 
 
 
