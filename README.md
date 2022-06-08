@@ -1,5 +1,6 @@
 
 # HintonZhang.ICLR-Paper           
+成就！!！招聘面试：你做的最有成就感的事情是什么？ICLR论文！！！XXX学习刷题XXX            
 这些ICLR论文就是最好的学习资料，还免费！         
 尝试发明核心理念！！！         
 
@@ -68,8 +69,8 @@ https://www.latex-project.org/
 
 
 ICLR！！！        
-拥有顶尖科技AIDL算法的科学家，非常有钱！如Hinton1200万年薪，钟钊201万年薪等。
-谷歌百度，Hinton        
+拥有顶尖科技AIDL算法的科学家，非常有钱！如Hinton4400万年薪（美元！2.88亿人民币！），钟钊201万年薪等。
+谷歌百度，Hinton的主要成就是ICLR论文！           
 清华，张钹、华罗庚初中          
 华为，钟钊、林田        
 TangPeiPei优秀的学长？！、TuWei        
