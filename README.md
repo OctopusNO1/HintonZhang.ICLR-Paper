@@ -7,6 +7,12 @@
 
 
 
+Geoffrey Hinton坚持了46年，发表了200多篇论文！！！             
+https://www.cs.toronto.edu/~hinton/             
+https://www.cs.toronto.edu/~hinton/papers.html            
+
+
+
 成就！!！招聘面试：你做的最有成就感的事情是什么？ICLR论文！！！XXX学习刷题XXX            
 这些ICLR论文就是最好的学习资料，还免费！         
 尝试发明核心理念！！！         
@@ -96,6 +102,5 @@ XXX达芬奇、托马斯杨、司马贺、居里夫人等XXX是百年难得一�
 
 
 讲论文，如抖音蛋卷            
-
 
 
