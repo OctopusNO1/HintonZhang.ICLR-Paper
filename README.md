@@ -7,7 +7,7 @@
 
 
 
-Geoffrey Hinton坚持了46年，发表了200多篇论文！！！             
+Geoffrey Hinton坚持了46年（几十年如一日的坚持，才成就了这位大科学家），发表了200多篇论文！！！             
 https://www.cs.toronto.edu/~hinton/             
 https://www.cs.toronto.edu/~hinton/papers.html            
 
