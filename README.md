@@ -1,5 +1,12 @@
 
-# HintonZhang.ICLR-Paper           
+# HintonZhang.ICLR-Paper       
+就一样ICLR！！！           
+深度学习的顶级会议论文！！！            
+国际会议在学习表征/International Conference on Learning Representations！！！          
+深度学习三大巨头之二的Yoshua Bengio和Yann LeCun牵头创办！！！                   
+
+
+
 成就！!！招聘面试：你做的最有成就感的事情是什么？ICLR论文！！！XXX学习刷题XXX            
 这些ICLR论文就是最好的学习资料，还免费！         
 尝试发明核心理念！！！         
@@ -60,7 +67,10 @@ https://www.pingwest.com/a/234018
 
 ### 参考：        
 https://www.aminer.cn/                       
+Turing Award needs publications/papers/ICLR！！！图灵奖需要ICLR论文！                    
 https://amturing.acm.org/call_for_nominations.cfm           
+图灵奖得主！谷歌副总裁！Hinton的主要成就是ICLR论文！                              
+https://www.cs.toronto.edu/~hinton/                    
 https://www.cs.toronto.edu/~hinton/papers.html              
 伪代码：            
 https://www.latex-project.org/             
