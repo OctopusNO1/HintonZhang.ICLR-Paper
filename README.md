@@ -1,7 +1,7 @@
 
 # HintonZhang.ICLR-Paper       
 就一样ICLR！！！           
-深度学习的顶级会议论文！！！            
+DL深度学习的顶级会议论文！！！            
 国际会议在学习表征/International Conference on Learning Representations！！！          
 深度学习三大巨头之二的Yoshua Bengio和Yann LeCun牵头创办！！！                   
 
