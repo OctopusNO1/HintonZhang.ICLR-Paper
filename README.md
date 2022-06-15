@@ -119,3 +119,20 @@ XXX达芬奇、托马斯杨、司马贺、居里夫人等XXX是百年难得一�
 
 
 
+WAIC          
+https://worldaicannes.com/         
+OpenAI          
+https://openai.com/            
+CVPR                 
+https://cvpr2022.thecvf.com/              
+
+
+
+一直徘徊在人工智慧研究的邊緣地帶。Hinton像一個局外人一樣堅守著！             
+https://latestainews.blogspot.com/2018/06/aigeoff-hinton40.html               
+https://linuxwp.servep2p.com/2021/01/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-netflix-%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E7%9B%91%E8%A7%86%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%EF%BC%9A%E6%99%BA%E8%83%BD%E9%99%B7%E9%98%B1%E3%80%8B%EF%BC%88th/                    
+
+
+
+
+
