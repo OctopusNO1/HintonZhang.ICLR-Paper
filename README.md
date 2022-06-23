@@ -1,5 +1,14 @@
 
 # HintonZhang.ICLR-Paper       
+## TODO      
+- [ ] ICLR      
+- [ ] ICLR      
+- [ ] ICLR         
+- [ ] 国家最高科学技术奖       
+- [ ] Turing award223      
+
+
+
 ## 深度学习“四大金刚”：           
 ### Geoffrey Hinton (Turing award 223! GVP4400! ):          
 https://www.cs.toronto.edu/~hinton/                 
