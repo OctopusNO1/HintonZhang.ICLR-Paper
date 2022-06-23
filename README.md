@@ -44,6 +44,12 @@ https://www.linkedin.cn/incareer/in/fei-fei-li-4541247
 ### Ian Goodfellow：             
 https://www.linkedin.cn/incareer/in/ian-goodfellow-b7187213                
 
+others:           
+https://www.reddit.com/r/deeplearning/             
+
+
+
+
 
 
 
