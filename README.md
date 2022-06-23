@@ -1,5 +1,48 @@
 
 # HintonZhang.ICLR-Paper       
+## 深度学习“四大金刚”：           
+### Geoffrey Hinton (Turing award 223! GVP4400! ):          
+https://www.cs.toronto.edu/~hinton/                 
+### Yann LeCun，Yoshua Bengio:           
+http://yann.lecun.com/             
+https://yoshuabengio.org/             
+https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=fr              
+https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN               
+https://www.linkedin.cn/incareer/in/yann-lecun-0b999           
+https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en                  
+ICLR：           
+https://iclr.cc/          
+花书：       
+
+### Andrew Ng（吴恩达）:            
+https://www.deeplearning.ai/             
+Coursera          
+
+### Jürgen Schmidhuber:          
+https://people.idsia.ch/~juergen/              
+https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en             
+
+### Peter Norvig:            
+https://scholar.google.com/citations?user=Ol0vcWgAAAAJ&hl=zh-CN               
+https://norvig.com/bio.html              
+https://norvig.com/                 
+
+### FeiFeiLi:          
+https://profiles.stanford.edu/fei-fei-li             
+https://www.linkedin.cn/incareer/in/fei-fei-li-4541247             
+
+### Ian Goodfellow：             
+https://www.linkedin.cn/incareer/in/ian-goodfellow-b7187213                
+
+
+
+
+
+说专业的？？？抖音B站
+写读书笔记
+
+
+
 就一样ICLR！！！           
 DL深度学习的顶级会议论文！！！            
 国际会议在学习表征/International Conference on Learning Representations！！！          
@@ -88,15 +131,16 @@ https://www.latex-project.org/
 
 
 
-
 ICLR！！！        
-拥有顶尖科技AIDL算法的科学家，非常有钱！如Hinton4400万年薪（美元！2.88亿人民币！），钟钊201万年薪等。
+拥有顶尖科技AIDL算法的科学家，非常有钱！如Hinton4400万年薪（美元！2.88亿人民币！），钟钊201万年薪等。            
 谷歌百度，Hinton的主要成就是ICLR论文！           
-诺奖得主屠呦呦（国家主席习近平授予屠呦呦“共和国勋章”！联合国教科文组织为她颁国际生命科学研究奖！）：
+屠呦呦（            
+  诺贝尔奖！国家最高科学技术奖！           
+  国家主席习近平授予屠呦呦“共和国勋章”！联合国教科文组织为她颁国际生命科学研究奖！）：           
   ：一辈子专注一样青蒿素研究！            
   ：科学研究不是为了争名逐利，科技工作者要去掉浮躁，脚踏实地！        
-https://www.ixigua.com/7020696048179872269?logTag=ad71f13b24a9e6ef8210
-清华，张钹、华罗庚初中          
+https://www.ixigua.com/7020696048179872269?logTag=ad71f13b24a9e6ef8210              
+清华，张钹、华罗庚初中           
 华为，钟钊、林田        
 TangPeiPei优秀的学长？！、TuWei        
 
@@ -132,6 +176,17 @@ https://cvpr2022.thecvf.com/
 https://latestainews.blogspot.com/2018/06/aigeoff-hinton40.html               
 https://linuxwp.servep2p.com/2021/01/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-netflix-%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E7%9B%91%E8%A7%86%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%EF%BC%9A%E6%99%BA%E8%83%BD%E9%99%B7%E9%98%B1%E3%80%8B%EF%BC%88th/                    
 
+
+
+诺贝尔文学奖得主罗曼罗兰（Turing award Hinton）：“人们常觉得准备的阶段（看书看论文）是浪费时间，只有当真正的机会（写论文）来临，而自己没有能力（没有读100多篇ICLR论文）把握的时候，才能觉悟到自己平时没有准备（没有读ICLR论文）才是浪费了时间。“                  
+中国有句古话：台上一分钟（Turing award 领奖台），台下十年功（准备70年）。              
+很多时候，机会总是留给有准备的人！             
+机会是留给忍耐和等待（别急）的人！             
+
+
+
+你必须非常努力（清华硕士！100多篇论文！600多页笔记！），才能看起来毫不费力（8家大厂算法岗SSP offer）！              
+https://www.sohu.com/a/499434527_701814            
 
 
 
