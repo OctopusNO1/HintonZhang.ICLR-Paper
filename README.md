@@ -6,7 +6,8 @@
 - [ ] ICLR         
 - [ ] 中国科学院院士           
 - [ ] 国家最高科学技术奖       
-- [ ] Turing award223        
+- [ ] Turing award223      
+- [ ] Stanford荣誉Phd        
          
 
 
@@ -191,6 +192,8 @@ OpenAI
 https://openai.com/            
 CVPR                 
 https://cvpr2022.thecvf.com/              
+Nature Index         
+https://www.natureindex.com/annual-tables/2022
 
 
 
@@ -209,5 +212,7 @@ https://linuxwp.servep2p.com/2021/01/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7-netfli
 
 你必须非常努力（清华硕士！100多篇论文！600多页笔记！），才能看起来毫不费力（8家大厂算法岗SSP offer）！              
 https://www.sohu.com/a/499434527_701814            
+
+
 
 
