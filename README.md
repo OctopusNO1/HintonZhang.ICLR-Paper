@@ -11,6 +11,14 @@
          
 
 
+## 三大综合性国际科学中心：         
+汇聚世界一流科学家，显著提升中国基础研究水平。           
+1、北京怀柔         
+2、上海张江        
+3、粤港澳大湾区！             
+
+
+
 ## 深度学习“四大金刚”：           
 ### Geoffrey Hinton (Turing award 223! GVP4400! ):          
 https://www.cs.toronto.edu/~hinton/                 
