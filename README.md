@@ -245,3 +245,15 @@ https://www.kaggle.com/
 
 
 
+### Hinton坚定坚持！70年！从未动摇！              
+“神经网络之父”​Geoffrey Hinton：寒冬之下的孤勇 - 雷峰网           
+https://www.leiphone.com/category/ai/uPFYz5Wvpgf7tSlI.html              
+图灵奖颁给深度学习三巨头，他们曾是一小撮顽固的“蠢货”                
+https://www.qbitai.com/2019/03/1098.html                  
+痴人、信徒、先驱：深度学习三巨头等口述神经网络复兴史               
+https://www.qbitai.com/2018/05/1062.html            
+
+
+
+
+
