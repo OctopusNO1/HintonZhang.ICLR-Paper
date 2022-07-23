@@ -71,7 +71,7 @@ https://www.reddit.com/r/deeplearning/
 
 
 
-就一样ICLR！！！           
+就一样ICLR！！！其他地方坑更多！           
 DL深度学习的顶级会议论文！！！            
 国际会议在学习表征/International Conference on Learning Representations！！！          
 深度学习三大巨头之二的Yoshua Bengio和Yann LeCun牵头创办！！！                   
